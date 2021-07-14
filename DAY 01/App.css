@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.App {
+  text-align: center;
+  color: lightblue;
+  margin-top: 3rem;
+}
+
+.App p {
+  margin-top: 1rem;
+  color: lightcyan;
+}
