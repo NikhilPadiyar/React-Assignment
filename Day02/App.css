@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.App h1 {
+  color: lightblue;
+}
+
+.App h2 {
+  margin: 3rem;
+  color: lightpink;
+}
+
+.App button {
+  margin: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 5px;
+  background-color: white;
+}
